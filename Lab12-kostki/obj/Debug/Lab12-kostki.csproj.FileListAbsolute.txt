@@ -1,0 +1,11 @@
+C:\Users\adama\Source\Repos\Lab12-kostki\Lab12-kostki\bin\Debug\Lab12-kostki.exe.config
+C:\Users\adama\Source\Repos\Lab12-kostki\Lab12-kostki\bin\Debug\Lab12-kostki.exe
+C:\Users\adama\Source\Repos\Lab12-kostki\Lab12-kostki\bin\Debug\Lab12-kostki.pdb
+C:\Users\adama\Source\Repos\Lab12-kostki\Lab12-kostki\obj\Debug\Lab12-kostki.csproj.AssemblyReference.cache
+C:\Users\adama\Source\Repos\Lab12-kostki\Lab12-kostki\obj\Debug\Lab12-kostki.csproj.SuggestedBindingRedirects.cache
+C:\Users\adama\Source\Repos\Lab12-kostki\Lab12-kostki\obj\Debug\Lab12_kostki.Form1.resources
+C:\Users\adama\Source\Repos\Lab12-kostki\Lab12-kostki\obj\Debug\Lab12_kostki.Properties.Resources.resources
+C:\Users\adama\Source\Repos\Lab12-kostki\Lab12-kostki\obj\Debug\Lab12-kostki.csproj.GenerateResource.cache
+C:\Users\adama\Source\Repos\Lab12-kostki\Lab12-kostki\obj\Debug\Lab12-kostki.csproj.CoreCompileInputs.cache
+C:\Users\adama\Source\Repos\Lab12-kostki\Lab12-kostki\obj\Debug\Lab12-kostki.exe
+C:\Users\adama\Source\Repos\Lab12-kostki\Lab12-kostki\obj\Debug\Lab12-kostki.pdb
